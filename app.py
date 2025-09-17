@@ -15,11 +15,9 @@ def factorial(n):
         return n*factorial(n-1)
 
 def division(a,b,c):
-    if b==0:
-        return "divison by zero error"
+    if a==0:
+        print(0)
     return a/b + c
-
-
 
 def multiply(a,b,c):
     return a*b*c
