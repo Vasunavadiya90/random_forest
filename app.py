@@ -15,15 +15,14 @@ def factorial(n):
         return n*factorial(n-1)
 
 def division(a,b,c):
+    if n==0:
+        print(0)
     return a/b + c
-
-
 
 def multiply(a,b,c):
     return a*b*c
-<<<<<<< HEAD
+
 
 def add(a,b,c):
     return a+b+c
-=======
->>>>>>> 79bf6504ddf852643c23ec38f46d87019a483aed
+
