@@ -8,7 +8,6 @@ def recurssion(n):
     else:
         return n*recurssion(n-1)
     
-    
 def factorial(n):
     if n==0 or n==1:
         return 1
@@ -17,3 +16,8 @@ def factorial(n):
 
 def division(a,b,c):
     return a/b + c
+
+
+
+def multiply(a,b,c):
+    return a*b*c
