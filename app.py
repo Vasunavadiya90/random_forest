@@ -1,5 +1,5 @@
-def sum(a,b,c):
-    return a+b+c
+def sum(a,b):
+    return a+b
 
 
 def recurssion(n):
@@ -21,6 +21,9 @@ def division(a,b,c):
 
 def multiply(a,b,c):
     return a*b*c
+<<<<<<< HEAD
 
 def add(a,b,c):
     return a+b+c
+=======
+>>>>>>> 79bf6504ddf852643c23ec38f46d87019a483aed
