@@ -1,5 +1,5 @@
-def sum(a,b):
-    return a+b
+def sum(a,b,c):
+    return a+b+c
 
 def recurssion(n):
     if n==1 or n==0:
